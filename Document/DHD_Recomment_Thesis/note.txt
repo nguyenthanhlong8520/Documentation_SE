@@ -1,0 +1,11 @@
+* Một số bài báo liên quan: 
+  - "An OCL-based Bridge from Concrete to Abstract Syntax", 
+    "Synchronization of Abstract and Concrete Syntax in Domain-Specific Modeling Languages", 
+
+  - "A Domain Specific Transformation Language to Bridge Concrete and Abstract Syntax" 
+     https://eclipse.dev/ocl/docs/publications/ICMT2016CS2AS_DSTL/icmt2016.pdf
+
+  - https://arxiv.org/pdf/1301.4858.pdf 
+    "A DSL for Mapping Abstract Syntax Models to Concrete Syntax Models in ModelCC"
+
+* lưu ý tài liệu về DSL (xtext, language engineering, ...) lưu ở đây nhé: https://github.com/vnu-frsl/training/issues/12
